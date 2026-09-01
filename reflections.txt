@@ -1,0 +1,3 @@
+a) I have used and liked VSCode and QTCreator due to their features. I have used eclipse before but I am not a big fan of it.
+b) I have some experince using vim, new vim, and Emacs. I like to use vim but Emacs is also pretty good as well.
+c) Advantages are that you can edit a file a lot quicker than with other forms of text editing. One of the major downsides of using a text editor like vi is there is a steep learning curve.
