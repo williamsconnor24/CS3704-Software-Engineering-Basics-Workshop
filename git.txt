@@ -1,0 +1,3 @@
+return: int
+method name: cmd_worktree
+parameters: int ac, const char **av, const char *prefix
